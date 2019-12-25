@@ -1,5 +1,4 @@
 #![doc(html_root_url = "https://docs.rs/prost-types/0.6.1")]
-#![feature(in_band_lifetimes)]
 
 //! Protocol Buffers well-known types.
 //!
